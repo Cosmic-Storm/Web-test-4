@@ -1,0 +1,88 @@
+.prgh{
+    background-color: rgb(100, 85, 64);
+    text-align: center;
+    padding: 55px 255px 63.5px 215px;
+    align-items: center;
+}
+
+.nav-p{
+  float: right;
+  padding-right: 0px;
+  padding-left: auto;
+}
+
+.mySlides {
+  display:none;
+}
+
+.container-p1 {
+  background-color: peru;
+  padding: 145px 125px 186.5px 125px;
+}
+
+.p1 {
+  text-align: center;
+}
+
+.p2 {
+  text-align: center;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:saddlebrown;
+  color: white;
+  text-align: center;
+}
+
+.nav-bar {
+  background-color: sienna;
+}
+
+.body-bg {
+  background-color: rgba(0, 0, 0, 0.959);
+}
+
+.pg-head {
+  color: white;
+}
+
+.h2{
+  color: white;
+  text-align: center;
+}
+
+.break {
+  padding-top: 175px;
+}
+
+.container-fluid-two {
+  background-color:sienna;
+  padding-right: 135 px;
+  padding-left: 45px;
+  padding-top: 35px;
+  padding-bottom: 25px;
+  text-align: left;
+}
+
+.h4 {
+  text-align: center;
+  color: white;
+}
+
+.p3 {
+  background-color: rgb(88, 67, 38);
+  color: rgb(0, 0, 0);
+  padding-top: 14px;
+  padding-bottom: 14px;
+  padding-left: 11px;
+  padding-right: 11px;
+  text-align: center;
+}
+
+
+
+
